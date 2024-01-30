@@ -1,0 +1,19 @@
+div {
+    text-align: center;
+    margin-top: 100px;
+    border: black 3px solid;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 25px
+}
+
+div h2{
+    text-align: left;
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+
+div p {
+    font-size: 20px;
+    text-align: left;
+}
